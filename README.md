@@ -32,8 +32,8 @@
 
 <p></p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dashajuu&theme=bear)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dashajuu&theme=bear)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dashajuu&theme=bear)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dashajuu&theme=buefy)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dashajuu&theme=buefy)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dashajuu&theme=buefy)
 
 
